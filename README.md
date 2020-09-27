@@ -12,7 +12,7 @@
 
 Hi, I'm Maxime HERY, a passionate self-taught frontEnd web developer from France.
 
-- 🔭 I’m currently working on project [Scuti](https://github.com/maximehery/Scuti)
+- 🔭 I’m currently working on project [TAATU](https://github.com/TaatuIO)
 - 💬 Ask me about anything [here](https://github.com/maximehery/maximehery/issues)
 
 **Languages and Tools:**  
@@ -30,7 +30,3 @@ Hi, I'm Maxime HERY, a passionate self-taught frontEnd web developer from France
 --->
 
 [![Maxime HERY's github stats](https://github-readme-stats.vercel.app/api?username=maximehery&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/maximehery/scuti">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=maximehery&repo=scuti&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
