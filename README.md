@@ -1,20 +1,43 @@
-# Salut salut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+<img src="https://thumbs.gfycat.com/AcceptableGreedyDutchsmoushond-size_restricted.gif" width="100%"/>
 
-## 🚀 A propos de moi
+# 🖖 Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=maximehery&style=flat-square&color=orange">
 
-🎓 Je m'appele Maxime, **développeur web**, passionné par l'informatique et les nouvelles technologies depuis mon jeune âge.
+I'm a web developer!
 
-## 🖥️ Ma config
+Passionate about new technologies, I have been studying and programming since I was young.
 
-![i5-6th-gen](https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-970](https://img.shields.io/badge/NVIDIA-GTX_970-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+Currently working in my own company, a web agency that offers website creation, SEO, e-commerce and mobile applications.
 
-## 🔗 Me contacter
+## 👨🏻‍💻 About me
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxime-hery/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/maximehery)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/splash15195/)
+- 🌎 I am living in France
+- 👨🏻‍💻 Love programming and gaming
+- 🧠 Love sharing knowledge
+- 📧 Reach me via maximehery18@outlook.fr
 
-Discord : Секретар.tsx#7466
+<br>
+
+## 💻 Tech stack
+
+<div>
+	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" /></code>
+	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" /></code>
+	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/121302773-7aa5d680-c8fa-11eb-98aa-e016fdb2de32.png" alt="InteliJ" title="InteliJ" /></code>
+	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" /></code>
+	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" /></code>
+	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
+	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png" alt="React" title="React" /></code>
+	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js" /></code>
+	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117448384-f9e06d00-af3e-11eb-9e02-a05bead103cf.png" alt="TypeScript" title="TypeScript" /></code>
+</div>
+
+<br>
+<br>
+
+---
+
+<p align="center" > 
+  <i>Thanks for passing by</i><br><br>
+  <i>Feel free to connect with me</i><br><br>
+  Discord : LaSecretaire.tsx#7466
+</p>
