@@ -6,8 +6,6 @@ I'm a web developer!
 
 Passionate about new technologies, I have been studying and programming since I was young.
 
-Currently working in my own company, a web agency that offers website creation, SEO, e-commerce and mobile applications.
-
 ## 👨🏻‍💻 About me
 
 - 🌎 I am living in France
@@ -27,7 +25,6 @@ Currently working in my own company, a web agency that offers website creation, 
 	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" /></code>
 	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
 	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png" alt="React" title="React" /></code>
-	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js" /></code>
 	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117448384-f9e06d00-af3e-11eb-9e02-a05bead103cf.png" alt="TypeScript" title="TypeScript" /></code>
 </div>
 
@@ -37,7 +34,5 @@ Currently working in my own company, a web agency that offers website creation, 
 ---
 
 <p align="center" > 
-  <i>Thanks for passing by</i><br><br>
-  <i>Feel free to connect with me</i><br><br>
-  Discord : LaSecretaire.tsx#7466
+  <i>Thanks for passing by</i>
 </p>
