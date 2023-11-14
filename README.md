@@ -2,8 +2,6 @@
 
 # 🖖 Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=maximehery&style=flat-square&color=orange">
 
-I'm a web developer!
-
 Passionate about new technologies, I have been studying and programming since I was young.
 
 ## 👨🏻‍💻 About me
