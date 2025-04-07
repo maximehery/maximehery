@@ -1,36 +1,39 @@
-<img src="https://thumbs.gfycat.com/AcceptableGreedyDutchsmoushond-size_restricted.gif" width="100%"/>
+# 👋 Salut, moi c’est Maxime
 
-# 🖖 Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=maximehery&style=flat-square&color=orange">
-
-Passionate about new technologies, I have been studying and programming since I was young.
-
-## 👨🏻‍💻 About me
-
-- 🌎 I am living in France
-- 👨🏻‍💻 Love programming and gaming
-- 🧠 Love sharing knowledge
-- 📧 Reach me via maximehery18@outlook.fr
-
-<br>
-
-## 💻 Tech stack
-
-<div>
-	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" /></code>
-	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" /></code>
-	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/121302773-7aa5d680-c8fa-11eb-98aa-e016fdb2de32.png" alt="InteliJ" title="InteliJ" /></code>
-	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" /></code>
-	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" /></code>
-	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
-	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png" alt="React" title="React" /></code>
-	<code><img height="48" src="https://user-images.githubusercontent.com/25181517/117448384-f9e06d00-af3e-11eb-9e02-a05bead103cf.png" alt="TypeScript" title="TypeScript" /></code>
-</div>
-
-<br>
-<br>
+💡 Développeur passionné | 🚀 Explorateur de projets ambitieux | 🌱 En perpétuelle évolution
 
 ---
 
-<p align="center" > 
-  <i>Thanks for passing by</i>
-</p>
+## 🧠 À propos de moi
+
+🎯 **Objectif :** Créer des solutions élégantes qui allient performance, accessibilité et impact positif.  
+💼 **Actuellement :** En alternance chez **NaitUp** et en formation de **Concepteur Développeur d’Applications** chez **Diginamic**.  
+🌍 **Philosophie :** Progresser chaque jour, transmettre, et coder avec du sens.
+
+---
+
+## 🔧 Stack & outils
+
+```bash
+💻 Languages :        		Java • PHP • JavaScript • TypeScript • SQL
+🛠️  Frameworks :      		Spring Boot • Symfony • Laravel • NestJS • React • Next.js • Nuxt.js • Tailwind CSS
+🗃️  Bases de données : 		PostgreSQL • MySQL • Redis • MongoDB
+⚙️  Outils :          		Docker • Git • Jira • Linux • Hetzner
+📦 DevOps & Cloud :   		CI/CD • Hetzner • OVH • Netlify
+```
+
+---
+
+## ✨ Projets en avant
+
+- 🔥 **NebulaCore** — Émulateur Java modulaire avec Netty, Spring Boot, Redis & Kafka.
+- 🌊 **Occéane** — Innovation éco-responsable & biomatériaux à base d’algues.
+- 🛰️ **Stayaware** — Application citoyenne d’alerte en temps réel.
+- 🎮 **TAATU World** — Projet perso de rétro-ingénierie.
+- 🌱 **Green4Cloud** — Solutions cloud éco-conçues pour un numérique plus responsable.
+- 🐧 **PingouinTheDev** — Création de scripts optimisés pour améliorer l'expérience des serveurs FiveM.
+
+---
+
+📬 **Tu veux échanger ?**  
+Passe me voir en [message privé](mailto:maximehery18@outlook.fr) ou [connecte-toi sur LinkedIn](https://www.linkedin.com/in/maxime-hery).
