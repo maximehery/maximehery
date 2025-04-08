@@ -15,11 +15,11 @@
 ## 🔧 Stack & outils
 
 ```bash
-💻 Languages :        		Java • PHP • JavaScript • TypeScript • SQL
+💻  Languages :        		Java • PHP • JavaScript • TypeScript • SQL
 🛠️  Frameworks :      		Spring Boot • Symfony • Laravel • NestJS • React • Next.js • Nuxt.js • Tailwind CSS
 🗃️  Bases de données : 		PostgreSQL • MySQL • Redis • MongoDB
 ⚙️  Outils :          		Docker • Git • Jira • Linux • Hetzner
-📦 DevOps & Cloud :   		CI/CD • Hetzner • OVH • Netlify
+📦  DevOps & Cloud :   		CI/CD • Hetzner • OVH • Netlify
 ```
 
 ---
